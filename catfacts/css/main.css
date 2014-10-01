@@ -1,0 +1,17 @@
+body{
+	background-color: grey;
+	font-family: 'Audiowide', cursive;
+	}
+.modal-content{
+	color: black;
+}
+
+.carousel-inner > .item > img{
+       width:auto;
+       height:500px;
+        margin: 0 auto;
+     }
+
+#carousel-example-generic{
+	center
+}
